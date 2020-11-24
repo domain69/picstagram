@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "211818667269",
+    "firebase_url": "https://todo-d5ca7.firebaseio.com",
+    "project_id": "todo-d5ca7",
+    "storage_bucket": "todo-d5ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211818667269:android:33fc7c1ca8379af6476b6c",
+        "android_client_info": {
+          "package_name": "com.example.picstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211818667269-tuu2mc5muv1gt826befhkqbqukk5crkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLm1hujClqx2Y5uqx4QSfGeg-gBURe-Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211818667269-tuu2mc5muv1gt826befhkqbqukk5crkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211818667269:android:d2fd0af2d0d8bf57476b6c",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211818667269-dd489ce0l4jj8abut1jiec3leoh5id42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo",
+            "certificate_hash": "41d047c2017462cbeaffa346890655300dd320eb"
+          }
+        },
+        {
+          "client_id": "211818667269-tuu2mc5muv1gt826befhkqbqukk5crkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLm1hujClqx2Y5uqx4QSfGeg-gBURe-Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211818667269-tuu2mc5muv1gt826befhkqbqukk5crkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
